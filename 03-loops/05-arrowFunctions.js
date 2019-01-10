@@ -24,7 +24,7 @@ let fatArrows = (x) =>
 fatArrows("This is a function, nothing to see")
 
 let namingMachine = (fname,lame) => (fname)
-}
+
 
 
 
