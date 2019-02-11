@@ -65,14 +65,7 @@ var netflix = {
       console.log(Object.values(spaceJam.nbaPlayers))
 
 
-      let garden = {
-          vegetable: 'zucchini',
-          flower: 'sun flower',
-          fruit: 'grape',
-          water: true,
-          sun: true,
-          size: 10
-      };
+      
 
       console.log(garden.vegetable)
 
@@ -89,3 +82,27 @@ let baking = {}
 baking['zucchini'] = 'better make some bread!';
 
 console.log(baking[garden['vegatable']])
+
+
+
+
+
+let garden = {
+          vegetable: 'zucchini',
+          flower: 'sun flower',
+          fruit: 'grape',
+          water: true,
+          sun: true,
+          size: 10
+      };
+
+      let key = 'water';
+
+      Object.keys(garden).forEach(g=> {
+          console.log(g)
+        if (g == x){
+            console.log('Yay, its', garden[x])
+        }else{
+            console.log("There's no water here=(")
+        }
+        })

@@ -1,4 +1,4 @@
-var a = 1;
+/*var a = 1;
 
 var  b  =  1;
 
@@ -8,7 +8,7 @@ console.log(a+b);
  DECLARATIONS
  ***********************/
 
-var x;
+/*var x;
 console.log('Declaration:', x); // Declaration: undefined
 
 x = 10;
@@ -22,14 +22,13 @@ console.log('Both:',x, y); // Both: 33 hello
 
 /*
 Var, Let, and Const:
-*/
+
 let today = 'Great!'
 const elevenFifty = 'Wonderful!';
 console.log(today, elevenFifty)
 
 today = 'Lovely!';
-console.log(today, elevenFifty)
-
+console.log(today, elevenFifty)*/
 
 
 

@@ -14,4 +14,5 @@ colors.forEach( f => {console.log(f)})
 let colors = ['blue', 'green', 'yellow', 'red', 'orange', 'purple']
 
 console.log( colors instanceof Array)
-colors.splice(4,0, 'red' )
+
+

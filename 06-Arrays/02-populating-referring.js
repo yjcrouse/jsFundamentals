@@ -1,4 +1,4 @@
-var listOfHotPeppersEatenByContestants = [3, 4, 2, 10, 3, 5];
+/*var listOfHotPeppersEatenByContestants = [3, 4, 2, 10, 3, 5];
 ​
 //Prints out the length of the array
 console.log(listOfHotPeppersEatenByContestants.length); //6
@@ -35,4 +35,16 @@ food.splice(4,1);
 
 food.pop();
 console.log(food)
+*/
 
+
+
+let arrayOne = [10,20,30,40,50,60,70];
+let arrayTwo = [5,3,2,5]
+
+const multiplyValues = (arr1, arr2) =>{
+
+    let newArray =[];
+
+    
+}

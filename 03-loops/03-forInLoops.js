@@ -1,4 +1,4 @@
-var student = { name: "Harry", awesome: true, degree: "JavaScript", week: 1 };
+/*var student = { name: "Harry", awesome: true, degree: "JavaScript", week: 1 };
 
 for (item in student) {
     console.log(student[item])
@@ -19,3 +19,5 @@ for(let n in studentName) {
     }
 }
 console.log(capName);
+*/
+
